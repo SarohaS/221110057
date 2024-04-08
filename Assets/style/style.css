@@ -1,0 +1,39 @@
+body {
+    background-color: navy;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.IMG_20220916_235010_194 {
+    width: 90px;
+
+}
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+}
+.biodata{
+    background: linear-gradient(rgb(249, 248, 248),rgb(3, 3, 141));
+    padding-bottom: 200px;
+    padding-top: 50px;
+}
+.skills {
+    padding-top: 55px;
+    
+}
+.footer {
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.contact a {
+    color: black;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
